@@ -18,13 +18,13 @@ $oc_config = array (
 
     "sitethemes"      => "g-stream",
 
-    "offer_link1"     => "https://www.5996z.com/scripts/un981c6l?a_aid=c295c36a&a_bid=bd085dfb&chan=code3", // Ganti https://www.google.com dengan Link offer kamu
+    "offer_link1"     => "https://mniwork.com/offer.php?offer=MovieTv&user=0684_matursuwun", // Ganti https://www.google.com dengan Link offer kamu
 
-    "offer_link2"     => "https://www.5996z.com/scripts/un981c6l?a_aid=c295c36a&a_bid=bd085dfb&chan=code3", // // Ganti https://www.google.com dengan Link offer kamu
+    "offer_link2"     => "https://mniwork.com/offer.php?offer=MovieTv&user=0684_matursuwun", // // Ganti https://www.google.com dengan Link offer kamu
 
     // "sport_offer"     => "",        // Jika Belum Di Include Plugin Sport nya gak bisa di gunakan
 
-    "histatsID"       => "", // id histats
+    "histatsID"       => "4715736", // id histats
 
     //================================================================================================
 
